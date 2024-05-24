@@ -114,7 +114,7 @@
 
 \author[
   addressref={aff1, aff2},                   % id's of addresses, e.g. {aff1,aff2}
-  corref={aff1},                       % id of corresponding address, if any
+  % corref={aff1},                       % id of corresponding address, if any
   % noteref={n1},                        % id's of article notes, if any
   email={b07401012@ntu.edu.tw}   % email address
 ]{\inits{Y.C.L}\fnm{Yi-Ching} \snm{Lee}}
@@ -138,7 +138,7 @@
 ]{\inits{J.S.C}\fnm{Jin-Shing} \snm{Chen}}
 \author[
   addressref={aff3},                   % id's of addresses, e.g. {aff1,aff2}
-  % corref={aff1},                       % id of corresponding address, if any
+  corref={aff1},                       % id of corresponding address, if any
   % noteref={n1},                        % id's of article notes, if any
   email={b07401012@ntu.edu.tw}   % email address
 ]{\inits{Y.P.H}\fnm{Yi-Ping} \snm{Hung}}
@@ -282,8 +282,6 @@ Virtual reality (VR) offers a promising solution to the challenges inherent in c
 Integration with communication technologies can further enhance the convenience and accessibility of preoperative planning. The flexibility provided by enabling real-time interaction between multidisciplinary teams ensures that critical insights and decisions can be made without the need for all team members to be physically present in the same location \cite{RN26, RN6}. The combination of virtual reality with network communication can facilitate mutual understanding and collaboration among surgical team members, which is crucial for both patient outcomes and physician efficiency \cite{RN62, RN25}.
 In this work, we develop a VR surgical planning system, ColabSurgVR. This system allows multiple users to examine the patient organ model reconstructed from computed tomography (CT) dataset and collaborate on forming a preoperative plan in real time. Also we describe a protocol to process patient-specific image datas into 3D models for immersive interaction in virtual environment. To test the use case and performance, we have conducted a pilot user study involving 10 physicians to examine real world patient data present the preliminary qualitative result.
 
- 
- 
 \section{System Design and Implementation}
 Our proposed pipeline takes the imaging data from CT and generates a 3D model for viewing in virtual reality. It involves processing steps to segment the content of the images and reconstrct the anatomy for the patient. The resultant 3D models will be further modified and then imported into our VR surgical planning system supporting immersive visulization and intuitive interaction. The user can assess the system either by extended reality or conventional devices. See Figure \ref{fig:Scheme} for schematic representation of our workflow and system architecture.
 
@@ -306,7 +304,7 @@ To optimize the mesh representation of the 3D models, an open-source 3D mesh pro
 For the presentation and interaction with the 3D models, we developed our software using the Unity 3D engine (Unity Technologies, San Francisco, CA, version 2020.3) and integrated it with the Meta XR All-in-One SDK (version 60). We employed the Universal Rendering Pipeline (URP) from Unity, which facilitated optimized graphics performance across various platforms, including mobile devices, PCs, and head-mounted displays (HMDs) utilized in our study.
 The software was deployed on an Omen 16 laptop (HP Inc., Palo Alto, California) featuring an Intel® Core™ i7-12700H CPU at 2.30 GHz, 16 GB of RAM, and an NVIDIA® GeForce™ RTX 3070 graphics card. For an immersive virtual reality experience, we used the Meta Quest Pro and Meta Quest 3 HMDs (Meta, Menlo Park, California), along with their corresponding controllers. The Meta Quest Pro offers a resolution of 1800 x 1920 pixels per eye, a refresh rate of 72/90 Hz, and a field of view of 106 degrees. The Meta Quest 3 enhances these specifications with a resolution of 2064 x 2208 pixels per eye, a refresh rate of up to 120 Hz, and a field of view of 110 degrees. These devices provided stereoscopic visualization and interaction, dynamically adjusting the medical image data according to the user's movements and positional changes. During software operation, the HMD was connected to the computer via the built-in link functionality of the Meta Quest models.
 \subsection{User Interaction and Interfaces}
-As handheld controllers provide a more intuitive approach for interaction within a 3D virtual reality setting compared to conventional 2D controls, we implemented several interaction functions using the Meta Quest Touch Pro Controllers and Meta Quest 3 Touch Plus Controllers. Additionally, we developed an intuitive Graphical User Interface (GUI) to serve as a menu for segmented regions of the 3D models, anonymized patient profiles, and quick access to certain functions (Fig ???). The core interactions implemented in our system included:
+As handheld controllers provide a more intuitive approach for interaction within a 3D virtual reality setting compared to conventional 2D controls, we implemented several interaction functions using the Meta Quest Touch Pro Controllers and Meta Quest 3 Touch Plus Controllers. Additionally, we developed an intuitive Graphical User Interface (GUI) to serve as a menu for segmented regions of the 3D models, anonymized patient profiles, and quick access to certain functions (Figure \ref{fig:GUI}). The core interactions implemented in our system included:
 \begin{itemize}
   \item Continuous translation in all six degrees of freedom (6DoF)
   \item Continuous rotation in all three degrees of rotational freedom (3DoF)
@@ -314,6 +312,12 @@ As handheld controllers provide a more intuitive approach for interaction within
   \item Measurements of omnidirectional linear distance on the volume by placing start and end points
   \item Marking and drawing on the volume freely
 \end{itemize}
+\begin{figure}
+  \centering
+  \includegraphics[width=.9\linewidth]{../Media/GUI}  
+  \caption{Graphical User Interface.}
+  \label{fig:GUI}
+\end{figure}
 
 A concurrent 2D slice image viewer was developed for comparison and correlation between 3D models and conventional medical images, including CT and MRI. A virtual cutting plane on the 3D models represented the corresponding level of the slice (Figure \ref{fig:CuttingPlane}) and translated accordingly when the user scrolled through the images.
 \begin{figure}
@@ -329,7 +333,7 @@ We design a pilot study with 10 participants, including 3 attending surgeons and
 
 \section{Results}
 The presented pipeline requires approximately an hour from importing raw data to presentation of 3D models in the VR system. This time estimate comes from running the program on the aforementioned computing resources and device. 
-The segmentation and visual fidelity of the end product was verified in both conventional 2D displays and HMDs, which are rated functionally accurate by all partcipants. The results for one patient are shown in Figure ??? and video ???. 
+The segmentation and visual fidelity of the end product was verified in both conventional 2D displays and HMDs, which are rated functionally accurate by all partcipants. The results for one patient are shown in Figure \ref{fig:GUI}, \ref{fig:CuttingPlane} and video in Supplementary data. 
 \section{Discussion}
 Surgical interventions for complex pathologies are highly intricate, requiring precise planning to optimize outcomes while preserving critical structures. These challenges necessitate advanced preoperative planning solutions that enable detailed visualization and interaction with patient-specific anatomy. Our virtual reality collaborative preoperative planning system addresses these needs by providing a workflow for reconstructing patient-specific 3D anatomic models from 2D image data. This VR system facilitates collaborative interaction and annotation of these virtual models in an immersive environment.
 
@@ -470,6 +474,8 @@ The authors declare that they have no competing interests.
 
 %   \subsection*{Additional file 2 --- Sample additional file title}
 %     Additional file descriptions text.
+
+
 
 
 

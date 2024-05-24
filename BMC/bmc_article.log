@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  24 MAY 2024 01:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  24 MAY 2024 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,49 +321,59 @@ Overfull \hbox (1.0pt too wide) has occurred while \output is active
 <../Media/Scheme.png, id=13, 953.5625pt x 498.86375pt>
 File: ../Media/Scheme.png Graphic file (type png)
 <use ../Media/Scheme.png>
-Package pdftex.def Info: ../Media/Scheme.png  used on input line 294.
+Package pdftex.def Info: ../Media/Scheme.png  used on input line 292.
 (pdftex.def)             Requested size: 324.8978pt x 169.9768pt.
 
-Overfull \hbox (12.5pt too wide) in paragraph at lines 295--295
+Overfull \hbox (12.5pt too wide) in paragraph at lines 293--293
 [] [] 
  []
 
 [2 <../Media/Scheme.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 304.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 307.
+(Font)              <10> on input line 302.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 305.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 307.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 305.
  [3]
-<../Media/CuttingPlane.png, id=24, 1278.7775pt x 716.6775pt>
-File: ../Media/CuttingPlane.png Graphic file (type png)
-<use ../Media/CuttingPlane.png>
-Package pdftex.def Info: ../Media/CuttingPlane.png  used on input line 321.
-(pdftex.def)             Requested size: 324.8978pt x 182.08875pt.
+<../Media/GUI.png, id=24, 614.295pt x 401.5pt>
+File: ../Media/GUI.png Graphic file (type png)
+<use ../Media/GUI.png>
+Package pdftex.def Info: ../Media/GUI.png  used on input line 317.
+(pdftex.def)             Requested size: 324.8978pt x 212.35287pt.
 
-Overfull \hbox (12.5pt too wide) in paragraph at lines 322--322
+Overfull \hbox (12.5pt too wide) in paragraph at lines 318--318
 [] [] 
  []
 
-[4 <../Media/CuttingPlane.png>] [5] [6] (./bmc_article.bbl [7] [8] [9]) 
+<../Media/CuttingPlane.png, id=25, 1278.7775pt x 716.6775pt>
+File: ../Media/CuttingPlane.png Graphic file (type png)
+<use ../Media/CuttingPlane.png>
+Package pdftex.def Info: ../Media/CuttingPlane.png  used on input line 325.
+(pdftex.def)             Requested size: 324.8978pt x 182.08875pt.
+
+Overfull \hbox (12.5pt too wide) in paragraph at lines 326--326
+[] [] 
+ []
+
+[4 <../Media/GUI.png>] [5 <../Media/CuttingPlane.png>] [6] (./bmc_article.bbl [7] [8] [9]) 
 AED: lastpage setting LastPage
 [10] (./bmc_article.aux) ) 
 Here is how much of TeX's memory you used:
- 4571 strings out of 492616
- 67183 string characters out of 6129482
- 153875 words of memory out of 5000000
- 8411 multiletter control sequences out of 15000+600000
+ 4577 strings out of 492616
+ 67282 string characters out of 6129482
+ 156231 words of memory out of 5000000
+ 8416 multiletter control sequences out of 15000+600000
  63808 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,9n,40p,1608b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on bmc_article.pdf (10 pages, 3726576 bytes).
+Output written on bmc_article.pdf (10 pages, 4099835 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
