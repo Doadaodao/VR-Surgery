@@ -3,44 +3,53 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: templateArxiv.aux
 The style file: unsrt.bst
 Database file #1: references.bib
-You've used 3 entries,
+Warning--empty year in RN26
+Warning--empty publisher in RN19
+Warning--empty year in RN12
+Warning--empty publisher in RN52
+Warning--empty year in RN55
+Warning--empty year in RN9
+Warning--empty year in RN64
+Warning--empty year in RN63
+You've used 44 entries,
             1791 wiz_defined-function locations,
-            461 strings with 4149 characters,
-and the built_in function-call counts, 963 in all, are:
-= -- 94
-> -- 36
-< -- 2
-+ -- 13
-- -- 10
-* -- 52
-:= -- 140
-add.period$ -- 11
-call.type$ -- 3
-change.case$ -- 3
+            776 strings with 21761 characters,
+and the built_in function-call counts, 12820 in all, are:
+= -- 976
+> -- 878
+< -- 7
++ -- 307
+- -- 263
+* -- 1105
+:= -- 2145
+add.period$ -- 158
+call.type$ -- 44
+change.case$ -- 42
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 50
-empty$ -- 91
-format.name$ -- 10
-if$ -- 231
+cite$ -- 52
+duplicate$ -- 458
+empty$ -- 1088
+format.name$ -- 263
+if$ -- 2778
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 3
-pop$ -- 15
+int.to.str$ -- 44
+missing$ -- 45
+newline$ -- 247
+num.names$ -- 48
+pop$ -- 72
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 33
+skip$ -- 206
 stack$ -- 0
-substring$ -- 64
-swap$ -- 23
-text.length$ -- 2
+substring$ -- 816
+swap$ -- 99
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 9
-width$ -- 4
-write$ -- 36
+warning$ -- 8
+while$ -- 91
+width$ -- 46
+write$ -- 526
+(There were 8 warnings)

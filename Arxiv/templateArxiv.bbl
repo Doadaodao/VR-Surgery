@@ -1,22 +1,412 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{kour2014real}
-George Kour and Raid Saabne.
-\newblock Real-time segmentation of on-line handwritten arabic script.
-\newblock In {\em Frontiers in Handwriting Recognition (ICFHR), 2014 14th
-  International Conference on}, pages 417--422. IEEE, 2014.
+\bibitem{RN30}
+M.~Yiasemidou, D.~Glassman, D.~Jayne, and D.~Miskovic.
+\newblock Is patient-specific pre-operative preparation feasible in a clinical
+  environment? a systematic review and meta-analysis.
+\newblock {\em Comput Assist Surg (Abingdon)}, 23(1):57--68, 2018.
+\newblock 2469-9322 Yiasemidou, Marina Glassman, Daniel Jayne, David Miskovic,
+  Danilo Journal Article Meta-Analysis Research Support, Non-U.S. Gov't
+  Systematic Review England 2018/12/01 Comput Assist Surg (Abingdon). 2018
+  Dec;23(1):57-68. doi: 10.1080/24699322.2018.1495266.
 
-\bibitem{kour2014fast}
-George Kour and Raid Saabne.
-\newblock Fast classification of handwritten on-line arabic characters.
-\newblock In {\em Soft Computing and Pattern Recognition (SoCPaR), 2014 6th
-  International Conference of}, pages 312--318. IEEE, 2014.
+\bibitem{RN32}
+A.~Arjomandi~Rad, R.~Vardanyan, S.~G. Thavarajasingam, A.~Zubarevich,
+  J.~Van~den Eynde, Mpbo Sá, K.~Zhigalov, P.~Sardiari~Nia, A.~Ruhparwar, and
+  A.~Weymann.
+\newblock Extended, virtual and augmented reality in thoracic surgery: a
+  systematic review.
+\newblock {\em Interact Cardiovasc Thorac Surg}, 34(2):201--211, 2022.
+\newblock 1569-9285 Arjomandi Rad, Arian Orcid: 0000-0002-4931-4049 Vardanyan,
+  Robert Orcid: 0000-0002-8111-2084 Thavarajasingam, Santhosh G Zubarevich,
+  Alina Orcid: 0000-0002-2444-5747 Van den Eynde, Jef Orcid:
+  0000-0002-5606-376x Sá, Michel Pompeu B O Zhigalov, Konstantin Orcid:
+  0000-0002-6440-3736 Sardiari Nia, Peyman Ruhparwar, Arjang Orcid:
+  0000-0003-2725-9912 Weymann, Alexander Orcid: 0000-0003-2966-6159 Journal
+  Article Systematic Review England 2021/09/21 Interact Cardiovasc Thorac Surg.
+  2022 Jan 18;34(2):201-211. doi: 10.1093/icvts/ivab241.
 
-\bibitem{hadash2018estimate}
-Guy Hadash, Einat Kermany, Boaz Carmeli, Ofer Lavi, George Kour, and Alon
-  Jacovi.
-\newblock Estimate and replace: A novel approach to integrating deep neural
-  networks with existing applications.
-\newblock {\em arXiv preprint arXiv:1804.09028}, 2018.
+\bibitem{RN31}
+R.~Q. Mao, L.~Lan, J.~Kay, R.~Lohre, O.~R. Ayeni, D.~P. Goel, and D.~Sa.
+\newblock Immersive virtual reality for surgical training: A systematic review.
+\newblock {\em J Surg Res}, 268:40--58, 2021.
+\newblock 1095-8673 Mao, Randi Q Lan, Lucy Kay, Jeffrey Lohre, Ryan Ayeni,
+  Olufemi R Goel, Danny P Sa, Darren de Journal Article Review Systematic
+  Review United States 2021/07/21 J Surg Res. 2021 Dec;268:40-58. doi:
+  10.1016/j.jss.2021.06.045. Epub 2021 Jul 17.
+
+\bibitem{RN2}
+M.~Queisner and K.~Eisenträger.
+\newblock Surgical planning in virtual reality: a systematic review.
+\newblock {\em J Med Imaging (Bellingham)}, 11(6):062603, 2024.
+\newblock 2329-4310 Queisner, Moritz Orcid: 0000-0001-7917-9231 Eisenträger,
+  Karl Orcid: 0000-0001-8090-9246 Journal Article Review United States
+  2024/04/29 J Med Imaging (Bellingham). 2024 Nov;11(6):062603. doi:
+  10.1117/1.JMI.11.6.062603. Epub 2024 Apr 25.
+
+\bibitem{RN24}
+A.~H. Sadeghi, S.~E. Mathari, D.~Abjigitova, Apwm Maat, Yjhj Taverne, Ajjc
+  Bogers, and E.~A.~F. Mahtab.
+\newblock Current and future applications of virtual, augmented, and mixed
+  reality in cardiothoracic surgery.
+\newblock {\em Ann Thorac Surg}, 113(2):681--691, 2022.
+\newblock 1552-6259 Sadeghi, Amir H Mathari, Sulayman El Abjigitova, Djamila
+  Maat, Alexander P W M Taverne, Yannick J H J Bogers, Ad J J C Mahtab, Edris A
+  F Journal Article Review Netherlands 2020/12/22 Ann Thorac Surg. 2022
+  Feb;113(2):681-691. doi: 10.1016/j.athoracsur.2020.11.030. Epub 2020 Dec 19.
+
+\bibitem{RN33}
+R.~Rahman, M.~E. Wood, L.~Qian, C.~L. Price, A.~A. Johnson, and G.~M. Osgood.
+\newblock Head-mounted display use in surgery: A systematic review.
+\newblock {\em Surg Innov}, 27(1):88--100, 2020.
+\newblock 1553-3514 Rahman, Rafa Wood, Matthew E Qian, Long Price, Carrie L
+  Johnson, Alex A Osgood, Greg M Orcid: 0000-0001-6271-4971 Journal Article
+  Systematic Review United States 2019/09/14 Surg Innov. 2020 Feb;27(1):88-100.
+  doi: 10.1177/1553350619871787. Epub 2019 Sep 12.
+
+\bibitem{RN17}
+D.~Abjigitova, A.~H. Sadeghi, J.~J. Peek, J.~A. Bekkers, Ajjc Bogers, and
+  E.~A.~F. Mahtab.
+\newblock Virtual reality in the preoperative planning of adult aortic surgery:
+  A feasibility study.
+\newblock {\em J Cardiovasc Dev Dis}, 9(2), 2022.
+\newblock 2308-3425 Abjigitova, Djamila Sadeghi, Amir H Peek, Jette J Orcid:
+  0000-0002-8412-2851 Bekkers, Jos A Bogers, Ad J J C Mahtab, Edris A F Orcid:
+  0000-0003-2647-5509 Journal Article Switzerland 2022/02/25 J Cardiovasc Dev
+  Dis. 2022 Jan 18;9(2):31. doi: 10.3390/jcdd9020031.
+
+\bibitem{RN13}
+W.~Bakhuis, A.~H. Sadeghi, I.~Moes, Apwm Maat, S.~Siregar, Ajjc Bogers, and
+  E.~A.~F. Mahtab.
+\newblock Essential surgical plan modifications after virtual reality planning
+  in 50 consecutive segmentectomies.
+\newblock {\em Ann Thorac Surg}, 115(5):1247--1255, 2023.
+\newblock 1552-6259 Bakhuis, Wouter Sadeghi, Amir H Moes, Iris Maat, Alexander
+  P W M Siregar, Sabrina Bogers, Ad J J C Mahtab, Edris A F Journal Article
+  Netherlands 2022/09/10 Ann Thorac Surg. 2023 May;115(5):1247-1255. doi:
+  10.1016/j.athoracsur.2022.08.037. Epub 2022 Sep 6.
+
+\bibitem{RN37}
+A.~H. Sadeghi, W.~Bakhuis, F.~Van~Schaagen, F.~B.~S. Oei, J.~A. Bekkers, Apwm
+  Maat, E.~A.~F. Mahtab, Ajjc Bogers, and Yjhj Taverne.
+\newblock Immersive 3d virtual reality imaging in planning minimally invasive
+  and complex adult cardiac surgery.
+\newblock {\em Eur Heart J Digit Health}, 1(1):62--70, 2020.
+\newblock 2634-3916 Sadeghi, Amir H Orcid: 0000-0002-6118-2341 Bakhuis, Wouter
+  Van Schaagen, Frank Oei, Frans B S Bekkers, Jos A Maat, Alexander P W M
+  Mahtab, Edris A F Bogers, Ad J J C Taverne, Yannick J H J Journal Article
+  England 2020/11/23 Eur Heart J Digit Health. 2020 Nov 23;1(1):62-70. doi:
+  10.1093/ehjdh/ztaa011. eCollection 2020 Nov.
+
+\bibitem{RN10}
+A.~H. Sadeghi, Apwm Maat, Yjhj Taverne, R.~Cornelissen, A.~C. Dingemans, Ajjc
+  Bogers, and E.~A.~F. Mahtab.
+\newblock Virtual reality and artificial intelligence for 3-dimensional
+  planning of lung segmentectomies.
+\newblock {\em JTCVS Tech}, 7:309--321, 2021.
+\newblock 2666-2507 Sadeghi, Amir H Maat, Alexander P W M Taverne, Yannick J H
+  J Cornelissen, Robin Dingemans, Anne-Marie C Bogers, Ad J J C Mahtab, Edris A
+  F Journal Article United States 2021/07/29 JTCVS Tech. 2021 Mar 16;7:309-321.
+  doi: 10.1016/j.xjtc.2021.03.016. eCollection 2021 Jun.
+
+\bibitem{RN44}
+M.~Thumerel, Y.~Belaroussi, E.~Prisciandaro, A.~Chermat, S.~Zarrouki,
+  B.~Chevalier, A.~Rodriguez, R.~Hustache-Castaing, and J.~Jougon.
+\newblock Immersive three-dimensional computed tomography to plan chest wall
+  resection for lung cancer.
+\newblock {\em Ann Thorac Surg}, 114(6):2379--2382, 2022.
+\newblock 1552-6259 Thumerel, Matthieu Belaroussi, Yaniss Prisciandaro, Elena
+  Chermat, Anaelle Zarrouki, Sarah Chevalier, Benjamin Rodriguez, Arnaud
+  Hustache-Castaing, Romain Jougon, Jacques Journal Article Netherlands
+  2022/08/14 Ann Thorac Surg. 2022 Dec;114(6):2379-2382. doi:
+  10.1016/j.athoracsur.2022.06.059. Epub 2022 Aug 10.
+
+\bibitem{RN29}
+S.~Zawy~Alsofy, I.~Sakellaropoulou, and R.~Stroop.
+\newblock Evaluation of surgical approaches for tumor resection in the deep
+  infratentorial region and impact of virtual reality technique for the
+  surgical planning and strategy.
+\newblock {\em J Craniofac Surg}, 31(7):1865--1869, 2020.
+\newblock 1536-3732 Zawy Alsofy, Samer Sakellaropoulou, Ioanna Stroop, Ralf
+  Evaluation Study Journal Article United States 2020/05/21 J Craniofac Surg.
+  2020 Oct;31(7):1865-1869. doi: 10.1097/SCS.0000000000006525.
+
+\bibitem{RN5}
+A.~A. Preukschas, P.~A. Wise, L.~Bettscheider, M.~Pfeiffer, M.~Wagner,
+  M.~Huber, M.~Golriz, L.~Fischer, A.~Mehrabi, F.~Rössler, S.~Speidel,
+  T.~Hackert, B.~P. Müller-Stich, F.~Nickel, and H.~G. Kenngott.
+\newblock Comparing a virtual reality head-mounted display to on-screen
+  three-dimensional visualization and two-dimensional computed tomography data
+  for training in decision making in hepatic surgery: a randomized controlled
+  study.
+\newblock {\em Surg Endosc}, 38(5):2483--2496, 2024.
+\newblock 1432-2218 Preukschas, Anas Amin Wise, Philipp Anthony Bettscheider,
+  Lisa Pfeiffer, Micha Wagner, Martin Huber, Matthias Golriz, Mohammad Fischer,
+  Lars Mehrabi, Arianeb Rössler, Fabian Speidel, Stefanie Hackert, Thilo
+  Müller-Stich, Beat Peter Nickel, Felix Kenngott, Hannes Götz SFB
+  125/Deutsche Forschungsgemeinschaft/ Comparative Study Journal Article
+  Randomized Controlled Trial Germany 2024/03/08 Surg Endosc. 2024
+  May;38(5):2483-2496. doi: 10.1007/s00464-023-10615-8. Epub 2024 Mar 8.
+
+\bibitem{RN36}
+J.~D. Shirk, D.~D. Thiel, E.~M. Wallen, J.~M. Linehan, W.~M. White, K.~K.
+  Badani, and J.~R. Porter.
+\newblock Effect of 3-dimensional virtual reality models for surgical planning
+  of robotic-assisted partial nephrectomy on surgical outcomes: A randomized
+  clinical trial.
+\newblock {\em JAMA Netw Open}, 2(9):e1911598, 2019.
+\newblock 2574-3805 Shirk, Joseph D Thiel, David D Wallen, Eric M Linehan,
+  Jennifer M White, Wesley M Badani, Ketan K Porter, James R Journal Article
+  Randomized Controlled Trial Research Support, Non-U.S. Gov't United States
+  2019/09/19 JAMA Netw Open. 2019 Sep 4;2(9):e1911598. doi:
+  10.1001/jamanetworkopen.2019.11598.
+
+\bibitem{RN28}
+T.~C. Steineke and D.~Barbery.
+\newblock Microsurgical clipping of middle cerebral artery aneurysms:
+  preoperative planning using virtual reality to reduce procedure time.
+\newblock {\em Neurosurg Focus}, 51(2):E12, 2021.
+\newblock 1092-0684 Steineke, Thomas C Barbery, Daniela Journal Article United
+  States 2021/08/02 Neurosurg Focus. 2021 Aug;51(2):E12. doi:
+  10.3171/2021.5.FOCUS21238.
+
+\bibitem{RN38}
+L.~Lan, R.~Q. Mao, R.~Y. Qiu, J.~Kay, and D.~de~Sa.
+\newblock Immersive virtual reality for patient-specific preoperative planning:
+  A systematic review.
+\newblock {\em Surg Innov}, 30(1):109--122, 2023.
+\newblock 1553-3514 Lan, Lucy Orcid: 0000-0003-4474-6018 Mao, Randi Q Qiu, Reva
+  Y Kay, Jeffrey de Sa, Darren Journal Article Systematic Review United States
+  2022/12/01 Surg Innov. 2023 Feb;30(1):109-122. doi:
+  10.1177/15533506221143235. Epub 2022 Nov 30.
+
+\bibitem{RN26}
+V.~Chheang, P.~Saalfeld, T.~Huber, F.~Huettl, W.~Kneist, B.~Preim, and
+  C.~Hansen.
+\newblock Collaborative virtual reality for laparoscopic liver surgery
+  training.
+\newblock In {\em 2019 IEEE International Conference on Artificial Intelligence
+  and Virtual Reality (AIVR)}, pages 1--17.
+
+\bibitem{RN6}
+Vuthea Chheang, Patrick Saalfeld, Fabian Joeres, Christian Boedecker, Tobias
+  Huber, Florentine Huettl, Hauke Lang, Bernhard Preim, and Christian Hansen.
+\newblock A collaborative virtual reality environment for liver surgery
+  planning.
+\newblock {\em Computers and Graphics}, 99:234--246, 2021.
+
+\bibitem{RN62}
+Yael Einav, Daniel Gopher, Itzik Kara, Orna Ben-Yosef, Margaret Lawn, Neri
+  Laufer, Meir Liebergall, and Yoel Donchin.
+\newblock Preoperative briefing in the operating room: Shared cognition,
+  teamwork, and patient safety.
+\newblock {\em Chest}, 137(2):443--449, 2010.
+
+\bibitem{RN25}
+L.~Morley and A.~Cashell.
+\newblock Collaboration in health care.
+\newblock {\em J Med Imaging Radiat Sci}, 48(2):207--216, 2017.
+\newblock 1876-7982 Morley, Lyndon Cashell, Angela Journal Article United
+  States 2017/06/01 J Med Imaging Radiat Sci. 2017 Jun;48(2):207-216. doi:
+  10.1016/j.jmir.2017.02.071. Epub 2017 May 31.
+
+\bibitem{RN19}
+Paolo Cignoni, Marco Callieri, Massimiliano Corsini, Matteo Dellepiane, Fabio
+  Ganovelli, and Guido Ranzuglia.
+\newblock {\em MeshLab: an Open-Source Mesh Processing Tool}, volume~1.
+\newblock 2008.
+
+\bibitem{RN20}
+Michael Garland and Paul~S. Heckbert.
+\newblock Surface simplification using quadric error metrics, 1997.
+
+\bibitem{RN12}
+Kenji Leibnitz, Tobias Hoßfeld, Naoki Wakamiya, and Masayuki Murata.
+\newblock Peer-to-peer vs. client/server: Reliability and efficiency of a
+  content distribution service.
+\newblock In Lorne Mason, Tadeusz Drwiega, and James Yan, editors, {\em
+  Managing Traffic Performance in Converged Networks}, pages 1161--1172.
+  Springer Berlin Heidelberg.
+
+\bibitem{RN7}
+Jonathan~M. Ford and Summer~J. Decker.
+\newblock Computed tomography slice thickness and its effects on
+  three-dimensional reconstruction of anatomical structures.
+\newblock {\em Journal of Forensic Radiology and Imaging}, 4:43--46, 2016.
+
+\bibitem{RN45}
+G.~Sampogna, R.~Pugliese, M.~Elli, A.~Vanzulli, and A.~Forgione.
+\newblock Routine clinical application of virtual reality in abdominal surgery.
+\newblock {\em Minim Invasive Ther Allied Technol}, 26(3):135--143, 2017.
+\newblock 1365-2931 Sampogna, Gianluca Pugliese, Raffaele Elli, Marco Vanzulli,
+  Angelo Forgione, Antonello Journal Article England 2017/01/14 Minim Invasive
+  Ther Allied Technol. 2017 Jun;26(3):135-143. doi:
+  10.1080/13645706.2016.1275016. Epub 2017 Jan 13.
+
+\bibitem{RN47}
+B.~J. Whyms, H.~K. Vorperian, L.~R. Gentry, E.~M. Schimek, E.~T. Bersu, and
+  M.~K. Chung.
+\newblock The effect of computed tomographic scanner parameters and
+  3-dimensional volume rendering techniques on the accuracy of linear, angular,
+  and volumetric measurements of the mandible.
+\newblock {\em Oral Surg Oral Med Oral Pathol Oral Radiol}, 115(5):682--91,
+  2013.
+\newblock 2212-4411 Whyms, Brian J Vorperian, Houri K Gentry, Lindell R
+  Schimek, Eugene M Bersu, Edward T Chung, Moo K P30 HD003352/HD/NICHD NIH
+  HHS/United States R01 DC006282/DC/NIDCD NIH HHS/United States P30
+  HD03352/HD/NICHD NIH HHS/United States R01 DC6282/DC/NIDCD NIH HHS/United
+  States Comparative Study Journal Article Research Support, N.I.H., Extramural
+  United States 2013/04/23 Oral Surg Oral Med Oral Pathol Oral Radiol. 2013
+  May;115(5):682-91. doi: 10.1016/j.oooo.2013.02.008.
+
+\bibitem{RN48}
+J.~Le~Moal, C.~Peillon, J.~N. Dacher, and J.~M. Baste.
+\newblock Three-dimensional computed tomography reconstruction for operative
+  planning in robotic segmentectomy: a pilot study.
+\newblock {\em J Thorac Dis}, 10(1):196--201, 2018.
+\newblock 2077-6624 Le Moal, Julien Peillon, Christophe Dacher, Jean-Nicolas
+  Baste, Jean-Marc Journal Article China 2018/03/31 J Thorac Dis. 2018
+  Jan;10(1):196-201. doi: 10.21037/jtd.2017.11.144.
+
+\bibitem{RN49}
+R.~G. Louis, G.~K. Steinberg, C.~Duma, G.~Britz, V.~Mehta, J.~Pace, W.~Selman,
+  and W.~C. Jean.
+\newblock Early experience with virtual and synchronized augmented reality
+  platform for preoperative planning and intraoperative navigation: A case
+  series.
+\newblock {\em Oper Neurosurg (Hagerstown)}, 21(4):189--196, 2021.
+\newblock 2332-4260 Louis, Robert G Steinberg, Gary K Duma, Christopher Britz,
+  Gavin Mehta, Vivek Pace, Jonathan Selman, Warren Jean, Walter C Orcid:
+  0000-0001-6774-2066 Journal Article United States 2021/06/26 Oper Neurosurg
+  (Hagerstown). 2021 Sep 15;21(4):189-196. doi: 10.1093/ons/opab188.
+
+\bibitem{RN50}
+L.~Lenchik, L.~Heacock, A.~A. Weaver, R.~D. Boutin, T.~S. Cook, J.~Itri, C.~G.
+  Filippi, R.~P. Gullapalli, J.~Lee, M.~Zagurovskaya, T.~Retson, K.~Godwin,
+  J.~Nicholson, and P.~A. Narayana.
+\newblock Automated segmentation of tissues using ct and mri: A systematic
+  review.
+\newblock {\em Acad Radiol}, 26(12):1695--1706, 2019.
+\newblock 1878-4046 Lenchik, Leon Heacock, Laura Weaver, Ashley A Boutin,
+  Robert D Cook, Tessa S Itri, Jason Filippi, Christopher G Gullapalli, Rao P
+  Lee, James Zagurovskaya, Marianna Retson, Tara Godwin, Kendra Nicholson, Joey
+  Narayana, Ponnada A K25 AG058804/AG/NIA NIH HHS/United States P30
+  AG021332/AG/NIA NIH HHS/United States Journal Article Research Support,
+  N.I.H., Extramural Systematic Review United States 2019/08/14 Acad Radiol.
+  2019 Dec;26(12):1695-1706. doi: 10.1016/j.acra.2019.07.006. Epub 2019 Aug 10.
+
+\bibitem{RN52}
+Fausto Milletari, Nassir Navab, and Seyed-Ahmad Ahmadi.
+\newblock {\em V-Net: Fully Convolutional Neural Networks for Volumetric
+  Medical Image Segmentation}.
+\newblock 2016.
+
+\bibitem{RN54}
+Ramin Ranjbarzadeh, Abbas Bagherian~Kasgari, Saeid Jafarzadeh~Ghoushchi,
+  Shokofeh Anari, Maryam Naseri, and Malika Bendechache.
+\newblock Brain tumor segmentation based on deep learning and an attention
+  mechanism using mri multi-modalities brain images.
+\newblock {\em Scientific Reports}, 11(1):10930, 2021.
+
+\bibitem{RN55}
+P.~Sarker, M.~M.~H. Shuvo, Z.~Hossain, and S.~Hasan.
+\newblock Segmentation and classification of lung tumor from 3d ct image using
+  k-means clustering algorithm.
+\newblock In {\em 2017 4th International Conference on Advances in Electrical
+  Engineering (ICAEE)}, pages 731--736.
+
+\bibitem{RN23}
+H.~Ujiie, A.~Yamaguchi, A.~Gregor, H.~Chan, T.~Kato, Y.~Hida, K.~Kaga,
+  S.~Wakasa, C.~Eitel, T.~R. Clapp, and K.~Yasufuku.
+\newblock Developing a virtual reality simulation system for preoperative
+  planning of thoracoscopic thoracic surgery.
+\newblock {\em J Thorac Dis}, 13(2):778--783, 2021.
+\newblock 2077-6624 Ujiie, Hideki Yamaguchi, Aogu Gregor, Alexander Chan,
+  Harley Kato, Tatsuya Hida, Yasuhiro Kaga, Kichizo Wakasa, Satoru Eitel, Chad
+  Clapp, Tod R Yasufuku, Kazuhiro Journal Article China 2021/03/16 J Thorac
+  Dis. 2021 Feb;13(2):778-783. doi: 10.21037/jtd-20-2197.
+
+\bibitem{RN51}
+Edgars Edelmers, Dzintra Kazoka, Katrina Bolocko, Kaspars Sudars, and Mara
+  Pilmane.
+\newblock Automatization of ct annotation: Combining ai efficiency with expert
+  precision.
+\newblock {\em Diagnostics}, 14(2):185, 2024.
+
+\bibitem{RN57}
+S.~Hanaoka, Y.~Masutani, M.~Nemoto, Y.~Nomura, S.~Miki, T.~Yoshikawa,
+  N.~Hayashi, K.~Ohtomo, and A.~Shimizu.
+\newblock Landmark-guided diffeomorphic demons algorithm and its application to
+  automatic segmentation of the whole spine and pelvis in ct images.
+\newblock {\em Int J Comput Assist Radiol Surg}, 12(3):413--430, 2017.
+\newblock 1861-6429 Hanaoka, Shouhei Orcid: 0000-0002-7496-1651 Masutani,
+  Yoshitaka Nemoto, Mitsutaka Nomura, Yukihiro Miki, Soichiro Yoshikawa,
+  Takeharu Hayashi, Naoto Ohtomo, Kuni Shimizu, Akinobu Journal Article Germany
+  2016/12/03 Int J Comput Assist Radiol Surg. 2017 Mar;12(3):413-430. doi:
+  10.1007/s11548-016-1507-z. Epub 2016 Nov 30.
+
+\bibitem{RN56}
+R.~M. Summers.
+\newblock Progress in fully automated abdominal ct interpretation.
+\newblock {\em AJR Am J Roentgenol}, 207(1):67--79, 2016.
+\newblock 1546-3141 Summers, Ronald M Z01 CL040003-06/Intramural NIH HHS/United
+  States Z01 CL040004-05/Intramural NIH HHS/United States Journal Article
+  Review United States 2016/04/22 AJR Am J Roentgenol. 2016 Jul;207(1):67-79.
+  doi: 10.2214/AJR.15.15996. Epub 2016 Apr 21.
+
+\bibitem{RN9}
+N.~Tucker, B.~P. Sutton, C.~Duncan, C.~Lu, S.~Koyejo, A.~J. Tsung,
+  J.~Maksimovic, T.~Ralph, S.~M. Pieta, and M.~T. Bramlet.
+\newblock Fully automated conversion of glioma clinical mri scans into a 3d
+  virtual reality model for presurgical planning.
+\newblock In {\em 2022 Annual Modeling and Simulation Conference (ANNSIM)},
+  pages 392--403.
+
+\bibitem{RN58}
+Kanchan Bahirat, Chengyuan Lai, Ryan~P. Mcmahan, and Balakrishnan Prabhakaran.
+\newblock Designing and evaluating a mesh simplification algorithm for virtual
+  reality.
+\newblock {\em ACM Trans. Multimedia Comput. Commun. Appl.}, 14(3s):Article 63,
+  2018.
+
+\bibitem{RN59}
+D.~P. Luebke.
+\newblock A developer's survey of polygonal simplification algorithms.
+\newblock {\em IEEE Computer Graphics and Applications}, 21(3):24--35, 2001.
+
+\bibitem{RN60}
+Taseef~Hasan Farook, Aparna Barman, Johari~Yap Abdullah, and Nafij~Bin Jamayet.
+\newblock Optimization of prosthodontic computer-aided designed models: A
+  virtual evaluation of mesh quality reduction using open source software.
+\newblock {\em Journal of Prosthodontics}, 30(5):420--429, 2021.
+
+\bibitem{RN61}
+O~Blender.
+\newblock Blender—a 3d modelling and rendering package.
+\newblock {\em Retrieved. represents the sequence of Constructs1 to}, 4, 2018.
+
+\bibitem{RN64}
+T.~Butnaru and F.~Girbacia.
+\newblock Collaborative pre-surgery planning in a tele-immersive environment
+  using vr technology.
+\newblock In Simona Vlad, Radu~V. Ciupa, and Anca~I. Nicu, editors, {\em
+  International Conference on Advancements of Medicine and Health Care through
+  Technology}, pages 9--14. Springer Berlin Heidelberg.
+
+\bibitem{RN65}
+Vuthea Chheang, Virve Fischer, Holger Buggenhagen, Tobias Huber, Florentine
+  Huettl, Werner Kneist, Bernhard Preim, Patrick Saalfeld, and Christian
+  Hansen.
+\newblock Toward interprofessional team training for surgeons and
+  anesthesiologists using virtual reality.
+\newblock {\em International Journal of Computer Assisted Radiology and
+  Surgery}, 15(12):2109--2118, 2020.
+
+\bibitem{RN63}
+J.~Gugenheimer, E.~Stemasov, J.~Frommel, and E.~Rukzio.
+\newblock A demonstration of sharevr: Co-located experiences for virtual
+  reality between hmd and non-hmd users.
+\newblock In {\em 2018 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 755--756.
 
 \end{thebibliography}
