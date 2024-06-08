@@ -99,7 +99,7 @@ United States of America}
 %%
 %% The "title" command has an optional parameter,
 %% allowing the author to define a "short title" to be used in page headers.
-\title{WaterForm: Altering the Liquid to Generate Multisensory Feedback for Enhancing Immersive Environment}
+\title{ColabSurgVR: A Virtual Reality Surgical Planning and Collaborative Platform}
 
 %Imports bibliography file
 %%
@@ -108,56 +108,27 @@ United States of America}
 %% Of note is the shared affiliation of the first two authors, and the
 %% "authornote" and "authornotemark" commands
 %% used to denote shared contribution to the research.
-\author{I-Chin Chen}
+
+\author{Jing-Yuan Huang}
 \affiliation{%
-  \institution{National Taipei University of Technology}
+  \institution{National Taiwan University}
   %\city{Taipei}
   \country{Taipei, Taiwan}
 }
 
-\author{Hsin-Chia Chang}
-\affiliation{%
-  \institution{National Taipei University of Technology}
-  \country{Taipei, Taiwan}
-  }
-
-\author{Chia-Yi Hung}
-\affiliation{%
-  \institution{National Taipei University of Technology}
-  \country{Taipei, Taiwan}
-  }
-
-\author{Chi-Yu Lin}
-\affiliation{%
-  \institution{National Taipei University of Technology}
-  \country{Taipei, Taiwan}
-  }
-  
-\author{Kuan-Ning Chang}
-\affiliation{%
-  \institution{National Taipei University of Technology}
-  \country{Taipei, Taiwan}
-  }
-
-\author{Ping-Hsuan Han}
-%\email{pinghsuan.han@gmail.com}
-\affiliation{%
-  \institution{National Taipei University of Technology}
-  \country{Taipei, Taiwan}
-  }
 %%
 %% By default, the full list of authors will be used in the page
 %% headers. Often, this list is too long, and will overlap
 %% other information printed in the page headers. This command allows
 %% the author to define a more concise list
 %% of authors' names for this purpose.
-\renewcommand{\shortauthors}{I-Chin Chen, et al.}
+\renewcommand{\shortauthors}{Jing-Yuan Huang, et al.}
 
 %%
 %% The abstract is a short summary of the work to be presented in the
 %% article.
 \begin{abstract}
-With virtual reality head-mounted display and haptic technologies, we can create a compelling immersive experience. Thus, researchers have been exploring integrating different feedback modules to provide more abundantly hybrid feedback systems. On the other approach, they want to use the same module to generate multiple feedback with different interaction techniques. However, simultaneously providing multiple sensory feedbacks in virtual environments presents challenges beyond system integration and stability. Ensuring that users can experience multiple stimuli without compromising the overall immersive experience, as in a physical world, is still challenging. Therefore, we present WaterForm, a liquid-transformation system that utilizes the liquid to generate multisensory feedback, including water splash, water flow, gravity, wind, resistance, buoyant force, mechanical energy, and mist, to enhance the immersive environment. In our demonstration, we developed a VR excursion in the virtual East landscape for exploring self-awareness via immersive storytelling.
+
 \vspace{-0.45em}
 \end{abstract}
 
@@ -197,7 +168,7 @@ With virtual reality head-mounted display and haptic technologies, we can create
 %%
 %% Keywords. The author(s) should pick words that accurately describe
 %% the work being presented. Separate the keywords with commas.
-\keywords{Liquid-transformation Systems, Hybrid Feedback, Relaxation Application, Mixed Reality}
+\keywords{Preoperative Planning, 3D Visualization, Surgical Collaboration, Virtual Reality}
 
 %% A "teaser" image appears between the author and affiliation
 %% information and the body of the document, and typically spans the
@@ -215,32 +186,27 @@ With virtual reality head-mounted display and haptic technologies, we can create
 %% This command processes the author and affiliation and title
 %% information and builds the first part of the formatted document.
 \maketitle
+
 \section{INTRODUCTION}
-The research team has been devoted to providing various tactile experiences in virtual reality (VR) to enhance immersive experiences using different technologies. Additionally, liquid can directly or indirectly offer multisensory feedback through its charistic and transformation. GroundFlow \cite{han2023groundflow} proposes a liquid tactile floor system to simulate fluid on the ground in VR, employing multi-flow feedback mechanisms to allow users to explore rivers, beaches, and swimming pools. Lotus \cite{chen2018lotus} utilizes the transformation of liquid into mist, guided by airflow modules to simulate olfactory environments. AoEs \cite{han2017aoes} utilize tactile simulation integrated devices to create immersive environments, simultaneously providing cold and warm virtual environments. AquaTop Display \cite{matoba2013aquatop} uses water as the screen surface for projection systems, allowing users to interact immersively both above and below the water surface. 
-%上面事都會接觸到水，這邊以下不會，所以這裡要寫一兩句說明。
 
-In addition to techniques involving direct contact with water, previous research has also explored generating sensory feedback indirectly through the transformation of water. INVISIBLE \cite{nakano2006invisible} proposes a weight perception system where users experience weight through fluid transmission. GravityCup \cite{cheng2018gravitycup} and GravityPack \cite{chen2022gravitypack} introduce a portable gravity display that mimics grasping, holding, and releasing virtual objects in the virtual world using liquid simulation. Waving Blanket \cite{han2022waving} presents a dynamic fluid distribution system utilizing reconfigurable pipeline systems to explore mechanisms for simulating vibration, pressure, weight, and weight-shifting feedback. LiquidMask \cite{liao2019liquidmask} fills masks with liquid to generate thermal changes and vibrations.
-%(V1 Contribution)
-%However, researchers are still exploring the integration of different feedback modules to provide mixed feedback. One possible approach is to use the same module to generate multiple feedbacks, including water splash, water flow, gravity, wind, resistance, buoyant force, mechanical energy, and mist through different interaction techniques. Therefore, this paper designs and implements a liquid transformation system, WaterForm (\autoref{fig:teaser}i), utilizing water as a single module, to generate hybrid feedback by transforming liquid and enhancing immersive environments. Additionally, we develop a relaxation MR application to demonstrate the practicality of our device.
+Accurate visuospatial conversion of 2D medical images into 3D mental models is essential in clinical practice. However, such skills are challenging to acquire and require significant cognitive effort, especially for novice medical practitioners. Immersive 3D visualizations of surigcal amaotmy in Virtual reality (VR) have been explored to facilitate visuospatial udnerstanding, preoperative planning, and interprofessional collaboration. \cite{RN86} developed a 3D heart model for medical education in a semi-immersive environment with navigational tools. \cite{RN5} demonstrated that 3D-VR is a valid tool for teaching surgical anatomy in unique patient case and adds more enjoyment to the learning process. LapSim \cite{RN90} provided a realistic stimulation for thoracoscopic surgeries and especially benefited the novices without prior experience. In the context of patient-specific preoperative evaluation, \cite{RN83} proposed an immersive presentation of medical volume data for liver surgery planning. CollaVRLap \cite{RN26} additionally implemented the co-presence of an assistant to stimulate for cooperation in laparoscopic liver surgery training. \cite{RN6} further delinated a VR environment focusing on collaborative virtual resection for liver surgery, either in remote or co-located environment. For thoracic anatomy, PulmoVR \cite{RN10, RN13} combined VR with semi-automatic segmentation for immersive planning of lung surgeries, and demonstrated clinical benefits in optimizing surgical plans. Similarly, \cite{RN44} showcased the improvements in understading and planning accuracy provided by VR for residents surgeons.
+%VisCubeSX \cite{RN85} improved the resident knowledge of pelvic anatomy compared to traditional methods.
+% Ujiie et al. (2021) developed a VR simulation system for thoracic surgery, emphasizing its utility in preoperative planning and intraoperative assistance. 
+%Elucis \cite{RN84} validated a VR platform for 3D anatomical modeling and contouring in radiation oncology and surgical planning, showing substantial efficiency improvements and high similarity to existing commercial platforms. 
+%Kunz et al. (2024) assessed the use of VR for understanding and evaluating anatomical data in pancreatic cancer resectability, highlighting the potential for more accurate staging of pancreatic ductal adenocarcinoma.
 
-%(V2 Contribution)
-While previous research cases have utilized various methods to transform water into different types of feedback, there has yet to be a system that provided by water simultaneously. One possible approach is to use the same module to generate multiple feedbacks simultaneously through different interaction techniques. Hence, this paper designs and implements a liquid transformation system, utilizing water as a single module, to generate water splashes, currents, gravity, wind, resistance, buoyancy, mechanical energy, mist, and more, enhancing immersive environments. Additionally, we develop a relaxation application to demonstrate the practicality of our device.
+Despite these advancements, current VR systems face several gaps and limitations, including inadequate interaction capabilities, limited visualization of patient data, and insufficient support for collaborative planning among multidisciplinary teams. Additionally, there is a need for high-fidelity 3D models in real-time, interactive environments to facilitate comprehensive surgical planning, and thorough validation is required to ensure their effectiveness in clinical applications. To address these issues, this paper presents a novel VR surgical planning system designed to enhance preoperative planning accuracy and efficiency through immersive 3D visualizations of patient-specific anatomy. The system supports real-time, interactive collaboration among multidisciplinary teams and involves semi-automatic segmentation and manual refinement to generate high-fidelity 3D models, optimized using mesh processing techniques. Initial validation through a pilot study demonstrated the system’s functional accuracy and potential to improve surgical outcomes.
 
-\vspace{-0.5em}
+
+%\vspace{-0.5em}
 \section{DESIGN AND IMPLEMENTATION}
-%\subsection{System Overview}
-WaterForm is a liquid-based haptic system that utilizes the liquid to generate multisensory feedback, including water splash, water flow, gravity, wind, resistance, buoyant force, mechanical energy, and mist, to enhance the immersive environment (Fig 1.i). The device's overall dimensions are 3m * 3m * 0.8m, composed of internal and external water pools and modules. It primarily consists of an external water pool (1.57m * 1.57m * 0.35m) to store water and utilizes a high-power pump (BS6500, flow rate: 8.0L/min) to pump water to the internal water pool and various modules for transforming the liquid form. Users sit on diatomaceous earth (0.4m * 0.4m * 0.25m) stacked inside the internal water pool for the experience.
 
-The maximum water level of the system is 0.15m, with two water pumps supplying water to the Jing-Lu and water wheel respectively. Water from the Jing-Lu falls from a height, creating water splash (Fig 1.a). Users can use water ladles to collect the water splashing down to experience gravity (Fig 1.c). By Applying weight behind the Jing-Lu and attacking a fan in front of the Jing-Lu, through the lever mechanism, the system can generate wind (Fig 1.d). The water-driven water wheel generates mechanical energy (Fig 1. g) by rotating the structure, and water drops create water flow (Fig 1.b) as they fall. The Atomizers (M-1007) placed 0.02m underwater generate mist  (Fig 1.h). By pumping water from the external pool to the internal pool, users can experience a buoyant force (Fig 1.f). Furthermore, users can use a writing brush in the water to feel resistance (Fig 1.e). Our device achieves liquid transformation simulation through the Unity and Linkit 7697 Bluetooth software operating system.
 
-%\subsection{landscaping design (Decoration)}
-In addition, elements of Chinese Taoist philosophy are incorporated into the landscape design of the pond. Surrounding the pond are embellishments such as lotus, bamboo, and stone lanterns, creating an overall serene atmosphere. Within the pond, the inner portion features landscapes of mountains and dry elements, representing the white portion of the Tai Chi diagram, symbolizing "yang"; while the outer portion is represented by water, symbolizing the black portion, "yin." The interaction and flow between the inner and outer ponds serve as a medium for harmonizing the yin and yang, allowing users to experience moments of balance and, at times, new and different sensations amidst conflicts and contradictions, thus exploring the inner self.
+\section{APPLICATION}
 
-\section{APPLICATION: Relaxation Application}
-To demonstrate our concept, we design a VR excursion in the virtual East landscape with multisensory feedback. Users will wear the HMD (Meta Quest 3) while seated within our device. Based on our WaterForm system, we create two virtual environments (VE) and eight interactive modes with mixed reality (MR). In these VE, users can immerse themselves in serene surroundings, such as sitting by a pavilion enjoying the tranquil scenery and freely interacting with physical devices from the real world. Guided prompts will direct users to focus on sensory changes in the present moment, facilitating exploration between the virtual and physical realms.
 
 \section{DISCUSSION AND FUTURE WORK}
-This work proposes a Liquid-transformation Systems to enhance immersive experiences with hybrid tactile sensation feedback, including water splash, water flow, gravity, wind, resistance, buoyant force, mechanical energy, and mist. By wearing the HMD, users can sit within our device to perceive different haptic experiences in our relaxation application. In the future, we will conduct user studies to understand how different senses affect the perceived level of relaxation, and apply these findings to applications such as flow state, mindfulness, meditation, and more.
+
 
 %%
 %% The next two lines define the bibliography style to be used, and

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  6 JUN 2024 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  8 JUN 2024 13:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/liyijing/Documents/LaTeX template/ACM Demo Paper Example (WaterForm)/sample-sigconf"
-(/Users/liyijing/Documents/LaTeX template/ACM Demo Paper Example (WaterForm)/sample-sigconf.tex
+**"/Users/liyijing/Library/CloudStorage/GoogleDrive-b07401012@csie.ntu.edu.tw/My Drive/VR Surgery/VR-Surgery-Paper/ACM Demo Paper/sample-sigconf"
+(/Users/liyijing/Library/CloudStorage/GoogleDrive-b07401012@csie.ntu.edu.tw/My Drive/VR Surgery/VR-Surgery-Paper/ACM Demo Paper/sample-sigconf.tex
 LaTeX2e <2018-12-01>
 (./acmart.cls
 Document Class: acmart 2021/05/01 v1.78 Typesetting articles for the Association for Computing Machinery
@@ -772,13 +772,12 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 )
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 96.
 \c@theorem=\count145
- Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress'
-No file sample-sigconf.aux.
+ Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' (./sample-sigconf.aux)
 \openout1 = `sample-sigconf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 96.
 LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 96.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 96.
@@ -882,6 +881,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 96.
 LaTeX Info: Redefining \pageref on input line 96.
 LaTeX Info: Redefining \nameref on input line 96.
+ (./sample-sigconf.out) (./sample-sigconf.out)
 \@outlinefile=\write4
 \openout4 = `sample-sigconf.out'.
 
@@ -954,179 +954,113 @@ Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 217.
-LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on input line 217.
+(Font)              scaled to size 12.0pt on input line 188.
+LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on input line 188.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 217.
+(Font)              scaled to size 12.0pt on input line 188.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 217.
+(Font)              scaled to size 12.0pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 217.
+(Font)              scaled to size 10.95pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 217.
+(Font)              scaled to size 10.95pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 217.
+(Font)              scaled to size 9.0pt on input line 188.
 
 
 Class acmart Warning: No city present for an affiliation.
 
-
-Class acmart Warning: No city present for an affiliation.
-
-
-Class acmart Warning: No city present for an affiliation.
-
-
-Class acmart Warning: No city present for an affiliation.
-
-
-Class acmart Warning: No city present for an affiliation.
-
-
-Class acmart Warning: No city present for an affiliation.
-
-<WF_SA.png, id=7, 1776.6375pt x 466.6233pt>
+<WF_SA.png, id=31, 1776.6375pt x 466.6233pt>
 File: WF_SA.png Graphic file (type png)
 <use WF_SA.png>
-Package pdftex.def Info: WF_SA.png  used on input line 217.
+Package pdftex.def Info: WF_SA.png  used on input line 188.
 (pdftex.def)             Requested size: 430.00462pt x 112.93173pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 217.
-LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on input line 217.
+(Font)              scaled to size 8.0pt on input line 188.
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on input line 188.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 217.
+(Font)              scaled to size 7.0pt on input line 188.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 217.
+(Font)              scaled to size 8.0pt on input line 188.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 217.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 188.
 
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 217.
+(Font)              scaled to size 8.0pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 217.
+(Font)              scaled to size 8.0pt on input line 188.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 217.
+(Font)              scaled to size 8.0pt on input line 188.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 217.
+(Font)              scaled to size 6.2pt on input line 188.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 217.
-
-
-LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 217.
-
-
-Underfull \vbox (badness 1184) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 218.
-
-[1.1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./WF_SA.png>]
+(Font)              scaled to size 8.0pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 218.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 219.
+(Font)              scaled to size 9.0pt on input line 190.
+ [1.1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./WF_SA.png>] (./sample-sigconf.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 49.
+LaTeX Info: Redefining \tempurl on input line 80.
+LaTeX Info: Redefining \tempurl on input line 97.
+LaTeX Info: Redefining \tempurl on input line 116.
+LaTeX Info: Redefining \tempurl on input line 132.
+LaTeX Info: Redefining \tempurl on input line 153.
+LaTeX Info: Redefining \tempurl on input line 178.
+LaTeX Info: Redefining \tempurl on input line 204.
+LaTeX Info: Redefining \tempurl on input line 229.
 
-
-Package natbib Warning: Citation `han2023groundflow' on page 2 undefined on input line 219.
-
-
-Package natbib Warning: Citation `chen2018lotus' on page 2 undefined on input line 219.
-
-
-Package natbib Warning: Citation `han2017aoes' on page 2 undefined on input line 219.
-
-
-Package natbib Warning: Citation `matoba2013aquatop' on page 2 undefined on input line 219.
-
-
-Package natbib Warning: Citation `nakano2006invisible' on page 2 undefined on input line 222.
-
-
-Package natbib Warning: Citation `cheng2018gravitycup' on page 2 undefined on input line 222.
-
-
-Package natbib Warning: Citation `chen2022gravitypack' on page 2 undefined on input line 222.
-
-
-Package natbib Warning: Citation `han2022waving' on page 2 undefined on input line 222.
-
-
-Package natbib Warning: Citation `liao2019liquidmask' on page 2 undefined on input line 222.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 229.
+Underfull \vbox (badness 6691) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 235.
-[2.2]
-No file sample-sigconf.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-[3.3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 255.
- (./sample-sigconf.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page not yet found.
-
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
-
-
-Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `sample-sigconf.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  969B29A94BAE47380BD5FEA91BDEDEDE;819.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(Font)              scaled to size 7.0pt on input line 237.
+ [2.2])
+Package atenddvi Info: Last page = 3.
+ [3.3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 226.
+ (./sample-sigconf.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package rerunfilecheck Info: File `sample-sigconf.out' has not changed.
+(rerunfilecheck)             Checksum: 6061E6B55A06B3F8CE5577475F5F2554;913.
  ) 
 Here is how much of TeX's memory you used:
- 18674 strings out of 492616
- 283564 string characters out of 6129482
- 411291 words of memory out of 5000000
- 21891 multiletter control sequences out of 15000+600000
- 115187 words of font info for 180 fonts, out of 8000000 for 9000
+ 18762 strings out of 492616
+ 285100 string characters out of 6129482
+ 419106 words of memory out of 5000000
+ 21948 multiletter control sequences out of 15000+600000
+ 117085 words of font info for 188 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1169b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,94p,1363b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on sample-sigconf.pdf (3 pages, 22057119 bytes).
+Output written on sample-sigconf.pdf (3 pages, 22070041 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 34834 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 38982 words of extra memory for PDF output out of 42996 (max. 10000000)
 
