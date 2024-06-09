@@ -53,11 +53,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1016/j.athoracsur.2022.08.037}
 \showDOI{\tempurl}
-\newblock
-\shownote{1552-6259 Bakhuis, Wouter Sadeghi, Amir H Moes, Iris Maat, Alexander
-  P W M Siregar, Sabrina Bogers, Ad J J C Mahtab, Edris A F Journal Article
-  Netherlands 2022/09/10 Ann Thorac Surg. 2023 May;115(5):1247-1255. doi:
-  10.1016/j.athoracsur.2022.08.037. Epub 2022 Sep 6.}
 
 
 \bibitem[\protect\citeauthoryear{Boedecker, Huettl, Saalfeld, Paschold, Kneist,
@@ -157,7 +152,7 @@
 \bibitem[\protect\citeauthoryear{Preukschas, Wise, Bettscheider, Pfeiffer,
   Wagner, Huber, Golriz, Fischer, Mehrabi, Rössler, Speidel, Hackert,
   Müller-Stich, Nickel, and Kenngott}{Preukschas et~al\mbox{.}}{2024}]%
-        {RN5}
+        {RN95}
 \bibfield{author}{\bibinfo{person}{A.~A. Preukschas}, \bibinfo{person}{P.~A.
   Wise}, \bibinfo{person}{L. Bettscheider}, \bibinfo{person}{M. Pfeiffer},
   \bibinfo{person}{M. Wagner}, \bibinfo{person}{M. Huber}, \bibinfo{person}{M.
@@ -173,18 +168,10 @@
 \newblock \bibinfo{journal}{\emph{Surg Endosc}} \bibinfo{volume}{38},
   \bibinfo{number}{5} (\bibinfo{year}{2024}), \bibinfo{pages}{2483--2496}.
 \newblock
-\showISSN{0930-2794 (Print) 0930-2794}
+\showISSN{0930-2794}
 \urldef\tempurl%
 \url{https://doi.org/10.1007/s00464-023-10615-8}
 \showDOI{\tempurl}
-\newblock
-\shownote{1432-2218 Preukschas, Anas Amin Wise, Philipp Anthony Bettscheider,
-  Lisa Pfeiffer, Micha Wagner, Martin Huber, Matthias Golriz, Mohammad Fischer,
-  Lars Mehrabi, Arianeb Rössler, Fabian Speidel, Stefanie Hackert, Thilo
-  Müller-Stich, Beat Peter Nickel, Felix Kenngott, Hannes Götz SFB
-  125/Deutsche Forschungsgemeinschaft/ Comparative Study Journal Article
-  Randomized Controlled Trial Germany 2024/03/08 Surg Endosc. 2024
-  May;38(5):2483-2496. doi: 10.1007/s00464-023-10615-8. Epub 2024 Mar 8.}
 
 
 \bibitem[\protect\citeauthoryear{Sadeghi, Maat, Taverne, Cornelissen,
@@ -203,11 +190,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1016/j.xjtc.2021.03.016}
 \showDOI{\tempurl}
-\newblock
-\shownote{2666-2507 Sadeghi, Amir H Maat, Alexander P W M Taverne, Yannick J H
-  J Cornelissen, Robin Dingemans, Anne-Marie C Bogers, Ad J J C Mahtab, Edris A
-  F Journal Article United States 2021/07/29 JTCVS Tech. 2021 Mar 16;7:309-321.
-  doi: 10.1016/j.xjtc.2021.03.016. eCollection 2021 Jun.}
 
 
 \bibitem[\protect\citeauthoryear{Thumerel, Belaroussi, Prisciandaro, Chermat,
@@ -228,12 +210,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1016/j.athoracsur.2022.06.059}
 \showDOI{\tempurl}
-\newblock
-\shownote{1552-6259 Thumerel, Matthieu Belaroussi, Yaniss Prisciandaro, Elena
-  Chermat, Anaelle Zarrouki, Sarah Chevalier, Benjamin Rodriguez, Arnaud
-  Hustache-Castaing, Romain Jougon, Jacques Journal Article Netherlands
-  2022/08/14 Ann Thorac Surg. 2022 Dec;114(6):2379-2382. doi:
-  10.1016/j.athoracsur.2022.06.059. Epub 2022 Aug 10.}
 
 
 \end{thebibliography}

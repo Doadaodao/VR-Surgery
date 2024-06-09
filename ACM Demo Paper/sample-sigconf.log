@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  8 JUN 2024 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  9 JUN 2024 09:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,43 +1024,40 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
  [1.1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./WF_SA.png>] (./sample-sigconf.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 49.
-LaTeX Info: Redefining \tempurl on input line 80.
-LaTeX Info: Redefining \tempurl on input line 97.
-LaTeX Info: Redefining \tempurl on input line 116.
-LaTeX Info: Redefining \tempurl on input line 132.
-LaTeX Info: Redefining \tempurl on input line 153.
-LaTeX Info: Redefining \tempurl on input line 178.
-LaTeX Info: Redefining \tempurl on input line 204.
-LaTeX Info: Redefining \tempurl on input line 229.
-
-Underfull \vbox (badness 6691) has occurred while \output is active []
-
+LaTeX Info: Redefining \tempurl on input line 75.
+LaTeX Info: Redefining \tempurl on input line 92.
+LaTeX Info: Redefining \tempurl on input line 111.
+LaTeX Info: Redefining \tempurl on input line 127.
+LaTeX Info: Redefining \tempurl on input line 148.
+LaTeX Info: Redefining \tempurl on input line 173.
+LaTeX Info: Redefining \tempurl on input line 191.
+LaTeX Info: Redefining \tempurl on input line 211.
+)
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 237.
- [2.2])
-Package atenddvi Info: Last page = 3.
- [3.3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 226.
+(Font)              scaled to size 7.0pt on input line 221.
+Package atenddvi Info: Last page = 2.
+ [2.2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 221.
  (./sample-sigconf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 Package rerunfilecheck Info: File `sample-sigconf.out' has not changed.
-(rerunfilecheck)             Checksum: 6061E6B55A06B3F8CE5577475F5F2554;913.
+(rerunfilecheck)             Checksum: 0A61B0AE3E28223E9A04F35E35BD9684;787.
  ) 
 Here is how much of TeX's memory you used:
- 18762 strings out of 492616
- 285100 string characters out of 6129482
- 419106 words of memory out of 5000000
+ 18737 strings out of 492616
+ 284495 string characters out of 6129482
+ 422526 words of memory out of 5000000
  21948 multiletter control sequences out of 15000+600000
- 117085 words of font info for 188 fonts, out of 8000000 for 9000
+ 114705 words of font info for 172 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1363b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,94p,1811b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on sample-sigconf.pdf (3 pages, 22070041 bytes).
+Output written on sample-sigconf.pdf (2 pages, 22067022 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
  38982 words of extra memory for PDF output out of 42996 (max. 10000000)
 
